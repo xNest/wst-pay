@@ -1,0 +1,12 @@
+!.gitattributes
+!.gitignore
+/.idea/**/*.xml
+/.idea/**/*.iml
+/.idea/.name
+!/.idea/scopes/*
+!/.idea/codeStyleSettings.xml
+!/.idea/encodings.xml
+!/.idea/frameworkRootSettings.xml
+!/.idea/php.xml
+!/.idea/vcs.xml
+!/.idea/watcherTasks.xml
